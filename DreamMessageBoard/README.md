@@ -78,13 +78,6 @@ MetaMask - Wallet connection
 
 Sepolia Testnet - Ethereum test network
 
-🎯 Assignment Requirements Met
-✅ Smart Contract with 4 functions (read/write)
-✅ Frontend Integration with MetaMask
-✅ HTML Elements: Headings, paragraphs, lists, links, buttons, images
-✅ External CSS with magical styling
-✅ JavaScript with ethers.js for blockchain interaction
-✅ 3 Screenshots showing deployment and interaction
-✅ Bonus: Magical theme with extra UI features
+
 
 May your dreams live forever on the blockchain! ✨
